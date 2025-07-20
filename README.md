@@ -18,3 +18,8 @@ This BoM lists exclusively through-hole components, as SMD components will be as
 |JST-XH 2-Pin            | 8  | $0.80 | Power Output           | https://www.digikey.co.uk/en/products/detail/jst-sales-america-inc/B2B-XH-A/1651045                          |
 |1x2 5.08 Screw Terminal | 2  | $2.66 | Power Output           | https://www.digikey.co.uk/en/products/detail/phoenix-contact/1729128/260615                                  |
 |SATA 7+15 PCB Connector | 1  | $4.09 | Power Input            | https://www.digikey.co.uk/en/products/detail/amphenol-icc-fci/10101788-002CLF/5207025                        |
+
+
+## Gallery
+<img width="1723" height="923" alt="image" src="https://github.com/user-attachments/assets/19c9cd33-8ee9-410e-a99e-266634b42f1c" />
+<img width="1723" height="923" alt="image" src="https://github.com/user-attachments/assets/7ae05671-229f-4620-a66b-233ca15c8986" />
